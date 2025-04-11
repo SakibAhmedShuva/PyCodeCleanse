@@ -23,9 +23,6 @@ git clone https://github.com/SakibAhmedShuva/PyCodeCleanse.git
 
 # Navigate to the directory
 cd PyCodeCleanse
-
-# Install as a package (optional)
-pip install .
 ```
 
 ## Usage
